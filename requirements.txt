@@ -1,1 +1,3 @@
 progress
+notebook
+matplotlib
