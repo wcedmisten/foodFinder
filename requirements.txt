@@ -2,3 +2,4 @@ progress
 notebook
 matplotlib
 seaborn
+networkx
